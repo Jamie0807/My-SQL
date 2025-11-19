@@ -6,14 +6,14 @@
 
 ```
 My-SQL/
-├── 01-Basic-Syntax/      # SQL basic syntax practice
-├── 02-Query-Operations/  # SELECT query practice
+├── 01-Basic-Syntax/      # SQL 基础语法练习
+├── 02-Query-Operations/  # SELECT 查询练习
 ├── 03-Data-Operations/   # INSERT, UPDATE, DELETE
-├── 04-Advanced-Queries/  # JOIN, subqueries, aggregate functions
-├── 05-Database-Design/   # Table design, indexes, constraints
-├── 06-Practical-Projects/ # Comprehensive practice projects
-├── sample-data/          # Sample data and database scripts
-└── notes/                # Learning notes and summaries
+├── 04-Advanced-Queries/  # JOIN, 子查询, 聚合函数
+├── 05-Database-Design/   # 表设计、索引、约束
+├── 06-Practical-Projects/ # 综合实战练习
+├── sample-data/          # 示例数据和数据库脚本
+└── notes/                # 学习笔记和总结
 
 ```
 
